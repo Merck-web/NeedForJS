@@ -1,0 +1,8 @@
+.hide{
+    display: none;
+}
+.car{
+    width: 250px;
+    height: 180px;
+    background: transparent url('./img/Машинка.png') center / cover no-repeat;
+}
